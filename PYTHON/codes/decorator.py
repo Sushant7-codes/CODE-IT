@@ -60,7 +60,7 @@
 
 ####Simple example
 # import csv
-import time
+# import time
 
 # def exe_time(func):
 #     def wrapper(*args, **kwargs):
@@ -221,7 +221,7 @@ import time
 ###Dictionary Comprehension
 
 
-d1={"name":"sushant","roll":21, "address":"Pokhara-32"}
+# d1={"name":"sushant","roll":21, "address":"Pokhara-32"}
 
 # # d2={key: value for key,value in d1.items() if len(key)>6}
 
@@ -233,5 +233,5 @@ d1={"name":"sushant","roll":21, "address":"Pokhara-32"}
 # gen = {num for num in range(2)}
 # print(gen)
 
-d1_sorted = sorted(d1.items(), key=lambda item: item[0])
-print(d1_sorted)
+# d1_sorted = sorted(d1.items(), key=lambda item: item[0])
+# print(d1_sorted)
