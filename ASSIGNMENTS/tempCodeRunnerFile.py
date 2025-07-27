@@ -1,0 +1,1 @@
+print(self.total_bookings)
